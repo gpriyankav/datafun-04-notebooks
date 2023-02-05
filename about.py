@@ -66,7 +66,7 @@ def get_header(fn):
  
  The Python version is:      {platform.python_version()}
  
- The Python interpreter is at:
+ The Python interpreter is at: 
  {sys.executable}
 
  The active environment should be either conda OR pip (one should be None):
